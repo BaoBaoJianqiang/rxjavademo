@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jianqiang.testrxjava">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".pages.Activity1" />
+        <activity android:name=".pages.Activity2" />
+        <activity android:name=".pages.Activity3" />
+        <activity android:name=".pages.Activity4" />
+        <activity android:name=".pages.Activity5" />
+        <activity android:name=".pages.Activity6" />
+        <activity android:name=".pages.Activity7" />
+        <activity android:name=".pages.Activity8" />
+        <activity android:name=".pages.Activity9" />
+        <activity android:name=".pages.Activity10" />
+        <activity android:name=".pages.Activity11" />
+        <activity android:name=".pages.Activity12" />
+        <activity android:name=".pages.Activity13" />
+    </application>
+
+</manifest>

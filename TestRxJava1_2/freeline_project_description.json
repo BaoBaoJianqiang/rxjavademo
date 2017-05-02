@@ -1,0 +1,108 @@
+{
+    "project_type": "gradle",
+    "android_gradle_plugin_version": "2.3.1",
+    "freeline_gradle_plugin_version": "0.8.7",
+    "java_home": "/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home",
+    "freeline_cache_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2",
+    "auto_dependency": true,
+    "product_flavor": "",
+    "build_script": "./gradlew :app:assembleDebug",
+    "build_script_work_directory": "",
+    "root_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2",
+    "main_project_name": "app",
+    "main_project_dir": "app",
+    "build_directory": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/build",
+    "build_cache_dir": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/build/freeline",
+    "build_tools_version": "25.0.2",
+    "sdk_directory": "/Users/jianqiang/Library/Android/sdk",
+    "build_tools_directory": "/Users/jianqiang/Library/Android/sdk/build-tools/25.0.2",
+    "compile_sdk_version": "android-25",
+    "compile_sdk_directory": "/Users/jianqiang/Library/Android/sdk/platforms/android-25",
+    "package": "com.example.jianqiang.testrxjava",
+    "debug_package": "com.example.jianqiang.testrxjava",
+    "main_manifest_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/AndroidManifest.xml",
+    "launcher": "com.example.jianqiang.testrxjava.MainActivity",
+    "apk_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/build/outputs/apk/app-debug.apk",
+    "extra_dep_res_paths": [
+        
+    ],
+    "exclude_dep_res_paths": [
+        
+    ],
+    "main_r_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/build/generated/source/r/debug/R.java",
+    "use_jdk8": true,
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "use_system_gradle": false,
+    "check_sources_md5": [
+        
+    ],
+    "main_src_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/java",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/java"
+    ],
+    "main_res_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/res",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/res"
+    ],
+    "main_assets_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/assets",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/assets"
+    ],
+    "main_jni_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/jni",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/jni"
+    ],
+    "main_jniLibs_directory": [
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/jniLibs",
+        "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/jniLibs"
+    ],
+    "project_source_sets": {
+        "app": {
+            "main_src_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/java",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/java"
+            ],
+            "main_res_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/res",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/res"
+            ],
+            "main_assets_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/assets",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/assets"
+            ],
+            "main_jni_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/jni",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/jni"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/debug/jniLibs",
+                "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/jniLibs"
+            ],
+            "main_manifest_path": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app/src/main/AndroidManifest.xml"
+        }
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "/Users/jianqiang/Documents/Training/code/Android/AndroidNewTech/RxJava/TestRxJava1_2/app"
+        }
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ]
+}
